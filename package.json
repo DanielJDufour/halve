@@ -1,0 +1,35 @@
+{
+  "name": "halve",
+  "version": "0.0.0",
+  "description": "Cut A Number into Two Parts. Preserve Integer Types.",
+  "main": "halve.js",
+  "files": [
+    "halve.js"
+  ],
+  "scripts": {
+    "format": "npx prettier --print-width=120 --write *.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielJDufour/halve.git"
+  },
+  "keywords": [
+    "cut",
+    "divide",
+    "half",
+    "math",
+    "number",
+    "integer",
+    "parts"
+  ],
+  "author": "Daniel J. Dufour",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/DanielJDufour/halve/issues"
+  },
+  "homepage": "https://github.com/DanielJDufour/halve#readme",
+  "devDependencies": {
+    "flug": "^2.1.0"
+  }
+}
