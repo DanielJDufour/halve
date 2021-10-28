@@ -12,6 +12,8 @@ npm install halve
 
 # usage
 ```js
+import halve from "halve";
+
 const num = 5;
 
 halve(num, { round: false });
